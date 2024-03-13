@@ -1,4 +1,4 @@
-![logo](https://github.com/VERMA-QA1/VERMA-QA1/blob/main/2.png)
+![logo](https://github.com/VERMA-QA1/VERMA-QA1/blob/main/1.png)
 <h1 align="center">Hi 👋, I'm Amit K Verma</h1>
 <h3 align="center">Passionate, Organized and Certified Software QA with 13+ years of rich experience in creating Automated test framework & scripts using Cypress, Postman, Katalon studio and Selenium, CI/CD, leading test team, designing Test Strategies, Test Plans. Coach the team with solution oriented and product development mind-set. Committed to optimum utilization of the resources & tools to achieve splendid user experience.</h3>
 
