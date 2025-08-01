@@ -1,6 +1,6 @@
 ![logo](https://github.com/VERMA-QA1/VERMA-QA1/blob/main/1.png)
 <h1 align="center">Hi 👋, I'm Amit K Verma</h1>
-<h3 align="center">Passionate, Organized and Certified Software QA with 13+ years of rich experience in creating Automated test framework & scripts using Cypress, Postman, Katalon studio and Selenium, CI/CD, leading test team, designing Test Strategies, Test Plans. Coach the team with solution oriented and product development mind-set. Committed to optimum utilization of the resources & tools to achieve splendid user experience.</h3>
+<h3 align="center">Passionate, Organized and Certified Software QA Lead with 15+ years of rich experience in creating Automated test framework & scripts using Playwright, Cypress, Postman, Katalon studio and Selenium, CI/CD, leading test team, designing Test Strategies, Test Plans. Coach the team with solution oriented and product development mind-set. Committed to optimum utilization of the resources & tools to achieve splendid user experience.</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -8,13 +8,13 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/amitkverma1/recent-activity/articles/](https://www.linkedin.com/in/amitkverma1/recent-activity/articles/)
 
-- 💬 Ask me about **Cypress Automation**
+- 💬 Ask me about **Cypress Automation** **Playwright Automation**
 
 - 📫 How to reach me **www.linkedin.com/in/amitkverma1/**
 
 - 📄 Know about my experiences [www.linkedin.com/in/amitkverma1/](www.linkedin.com/in/amitkverma1/)
 
-- ⚡ Fun fact **Product Advocate**
+- ⚡ Fun fact **Product Enthusiast** and **Product Advocate**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
